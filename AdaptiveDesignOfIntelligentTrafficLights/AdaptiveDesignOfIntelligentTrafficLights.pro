@@ -16,6 +16,7 @@ HEADERS += \
     Car.h \
     Crossroads.h \
     Light.h \
+    Map.h \
     Road.h \
     mainwindow.h
 
